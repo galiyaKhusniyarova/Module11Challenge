@@ -37,7 +37,8 @@ If you want to run the program yourself and/or enter different data, do the foll
 **Answer:** That question's phrased very poorly. The weekends are less intense, so the hourly 'Search Trends' average is lower than on weekdays. 
 
 </br>
-![bokeh_plot (61)](https://user-images.githubusercontent.com/111472420/204168813-f5708251-bce0-4874-9265-a38392b76a9a.png)
+<img width="726" alt="image" src="https://user-images.githubusercontent.com/111472420/204168880-df2229e2-bb12-48f6-8f60-9aea2a2ea75a.png">
+
 
  </br>
 
