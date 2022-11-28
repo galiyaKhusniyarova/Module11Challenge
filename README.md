@@ -21,13 +21,14 @@ If you want to run the program yourself and/or enter different data, do the foll
 <img width="1066" alt="image" src="https://user-images.githubusercontent.com/111472420/204167413-098ea1d6-215e-446a-b0df-ea462a5d05e1.png">
 
 ## Plotting the Results
-### STEP1
+### Step 1: Find Unusual Patterns in Hourly Google Search Traffic
 ![bokeh_plot (54)](https://user-images.githubusercontent.com/111472420/204167564-0b67502b-3ffd-41b8-b465-ce3b26b283dc.png)
 </br>
 <b>Question</b>: Did the Google search traffic increase during the month that MercadoLibre released its financial results? </br>
 
 <b>Answer</b>: Yes, the Google search traffic increased during May 2020.
-### STEP 2
+### Step 2: Mine the Search Traffic Data for Seasonality
+
 ![bokeh_plot (53)](https://user-images.githubusercontent.com/111472420/204167513-04d9399b-5860-4d04-86b5-4db93e1d7617.png) </br>
 
 ![bokeh_plot (55)](https://user-images.githubusercontent.com/111472420/204167635-be918a9e-de2e-41b6-a09e-419df283ac0a.png)
