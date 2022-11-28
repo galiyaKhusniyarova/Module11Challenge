@@ -38,7 +38,9 @@ If you want to run the program yourself and/or enter different data, do the foll
 
 </br>
 </br>
-![bokeh_plot (56)](https://user-images.githubusercontent.com/111472420/204167761-9f3bd589-7e6d-493b-b8da-4454eaf0653d.png) </br>
+![bokeh_plot (56)](https://user-images.githubusercontent.com/111472420/204168742-641f67bd-f4c4-4a53-8950-fe0c52a8003c.png)
+
+ </br>
 
 **Question:** Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)? </br>
 
