@@ -1,5 +1,5 @@
 # Module11Challenge
-The task is to create a Jupyter notebook that contains your data preparation, analysis, and visualizations for all the time series data that the company(MercadoLibre) needs to understand.
+The task is to create a Jupyter notebook that contains the data preparation, analysis, and visualizations for all the time series data that the company(MercadoLibre) needs to understand.
 
 # Technologies
 - python 3.8.15 (compatible with Prophet)
