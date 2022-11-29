@@ -1,7 +1,5 @@
 # Module11Challenge
-The task is to create:
-1. A Jupyter notebook that clusters cryptocurrencies by their performance in different time periods.
-2. Plot the results to visually show the performance to the board.
+The task is to create a Jupyter notebook that contains your data preparation, analysis, and visualizations for all the time series data that the company(MercadoLibre) needs to understand.
 
 # Technologies
 - python 3.8.15 (compatible with Prophet)
